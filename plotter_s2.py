@@ -5,6 +5,7 @@ Created on Mon Nov 12 11:24:01 2018
 @author: Nagy Tamás Milán
 
 SCRIPT for making S2 plots
+input files must contain data in one column
 """
 import pylab as pylab
 import numpy as np
