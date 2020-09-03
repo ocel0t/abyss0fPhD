@@ -3,7 +3,7 @@
 # GROMACS 4.5.5 EM script for peptides, using parallel processing
 # Tamás Milán Nagy @2017
 
-echo "Specify base_name, please:  "
+echo "Specify a name for the system:  "
 read basename
 echo "To specify disulfide bonds, type '-ss', or press execute"
 read disulfide
