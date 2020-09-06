@@ -4,7 +4,7 @@ Created on Tue Mar 12 10:51:36 2019
 
 @author: Nagy Tamás Milán
 
-This script averages the order parameter values located in all of the .out files in the folder. Files must contain one data column and
+This script averages the order parameter values located in all of the .out files in working directory. Files must contain one data column and
 values are averaged for 37 residues.
 """
 import numpy as np
